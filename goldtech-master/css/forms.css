@@ -1,0 +1,25 @@
+.form-group{
+
+}
+
+img.form-img{
+	display: block;
+	margin-bottom: 1em;
+}
+
+.form-group label{
+	display: inline-block;
+	background: green;
+	padding: .3em;
+	color: white;
+	border-radius: .2em;
+	cursor: pointer;
+}
+
+.form-group label:hover{
+	transform: scale(1.1);
+}
+
+.form-group #photo{
+	display: none;
+}
